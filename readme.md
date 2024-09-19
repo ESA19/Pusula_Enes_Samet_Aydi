@@ -21,7 +21,7 @@ The dataset consists of the following columns:
 - `Boy` (Height): Numerical
 - Date Columns ( `Ilac_Baslangic_Tarihi`, `Ilac_Bitis_Tarihi`, `Yan_Etki_Bildirim_Tarihi`, `Dogum_Tarihi`)
 
-## Attention ⚠️
+## Note ⚠️
 
 You can review codes with their output. If you want to run into your local machine please follow below instructions.
 
