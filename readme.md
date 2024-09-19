@@ -19,7 +19,7 @@ The dataset consists of the following columns:
 - `Kan Grubu` (Blood Type): Categorical
 - `Kilo` (Weight): Numerical
 - `Boy` (Height): Numerical
-- Date Columns (e.g., `Ilac_Baslangic_Tarihi`, `Ilac_Bitis_Tarihi`, `Yan_Etki_Bildirim_Tarihi`, `Dogum_Tarihi`)
+- Date Columns ( `Ilac_Baslangic_Tarihi`, `Ilac_Bitis_Tarihi`, `Yan_Etki_Bildirim_Tarihi`, `Dogum_Tarihi`)
 
 ## Attention ⚠️
 
