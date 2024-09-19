@@ -30,7 +30,7 @@ You can review codes with their output. If you want to run into your local machi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ESA19/Pusula_Enes_Samet_Aydı.git
+   git clone https://github.com/ESA19/Pusula_Enes_Samet_Aydi.git
 
 ## Running 
 
