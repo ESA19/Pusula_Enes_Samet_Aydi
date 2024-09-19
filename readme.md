@@ -38,7 +38,7 @@ You can review codes with their output. If you want to run into your local machi
 
    - ` pip install -r requirements.txt`
 
-2. In order to run the .ipynb extension code file, you either need to install `Jupter Notebook` or you need to install the `Jupter Notebook Extension` in your IDE.
+2. In order to run the .ipynb extension code file, you either need to install `Jupyter Notebook` or you need to install the `Jupyter Notebook Extension` in your IDE.
 
 3. Please make sure you give the correct path.
 
