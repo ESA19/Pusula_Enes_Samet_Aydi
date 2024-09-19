@@ -1,4 +1,4 @@
-# Exploratory Data Analysis and Data Preprocessing for Machine Learning Model
+# Exploratory Data Analysis and Data Preprocessing for Machine Learning 
 
 ## Study Owner
 - Name: Enes Samet Aydı
